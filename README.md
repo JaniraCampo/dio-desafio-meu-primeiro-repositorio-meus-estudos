@@ -1,2 +1,2 @@
-# dio-desafio-meu-primeiro-repositorio-meus-estudos
-Desafio de projeto sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub
+Repositório 'Meus estudos' criado para o desafio de projeto 
